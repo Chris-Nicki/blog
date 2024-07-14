@@ -28,4 +28,4 @@ Rate limiting safeguards against potential abuse and ensures optimal API perform
 Unit tests using a framework like unittest can be integrated to guarantee the correctness of application logic.
 
 ## Live Site
-https://blog-gwu3.onrender.com/api/docs/
+https://house-of-blogs.onrender.com/
